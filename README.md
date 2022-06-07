@@ -12,3 +12,8 @@ We are creating a list:
 		* Chemistry
 
 when $a \ne 0$, there are two solutions to $(ax^2+bx+c = 0)$ and they are $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+Name|Roll|GPA
+---|---|---
+Runa|05|3.50
+Karim|06|3.67
