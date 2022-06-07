@@ -10,3 +10,5 @@ We are creating a list:
 	* Physics
 
 		* Chemistry
+
+$a \ne 0$
